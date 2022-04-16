@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.whole{
+  background-color: aqua;
+}
+.heading_style{
+  background-color: rgb(219, 219, 219);
+  padding: 20px;
+  text-align: center;
+  margin-top: 0%;
+  margin-bottom:0% ;
+  color: rgb(133, 132, 131);
+}
